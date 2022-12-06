@@ -5,4 +5,4 @@ Codes can be run from the main R script file.
 
 Data to reproduce the results in the manuscript can be found here:
 
-Jin, Han (2022), “Cell line section (Human Protein Atlas)”, Mendeley Data, V1, doi: 10.17632/y3ngwtnbdx.1
+https://doi.org/10.5281/zenodo.7405014
