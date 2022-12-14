@@ -3,6 +3,6 @@ Scripts for reproducing the results presented in the manuscript "Is cell line a 
 
 Codes can be run starting from the main R script file.
 
-Data to reproduce the results in the manuscript can be found here:
+Data for reproducing the results in the manuscript can be found here:
 
 https://doi.org/10.5281/zenodo.7405014
