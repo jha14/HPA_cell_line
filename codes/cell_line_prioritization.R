@@ -1,4 +1,4 @@
-pacman::p_load(tidyverse, ggpubr, xlsx, fgsea, ggpubr, ggrepel, ggdist, ggalluvial, foreach, doMC, org.Hs.eg.db)
+pacman::p_load(tidyverse, ggpubr, xlsx, fgsea, ggrepel, ggdist, ggalluvial, foreach, doMC, org.Hs.eg.db)
 
 
 # data preparation --------------------------------------------------------
