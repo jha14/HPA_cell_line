@@ -1,5 +1,5 @@
 pacman::p_load(tidyverse, readxl, ggpubr, ComplexHeatmap, scales, ggsci, ggrepel, ggdendro, ggalluvial, xlsx,
-               RColorBrewer, venneuler, VennDiagram, org.Hs.eg.db, ggdist, ComplexHeatmap)
+               RColorBrewer, venneuler, VennDiagram, org.Hs.eg.db, ggdist)
 source("codes/hpa_functions.R")
 
 
