@@ -38,7 +38,7 @@ hpa_tcga$cell_line_annotation$primary_or_metastasis <- factor(hpa_tcga$cell_line
                                                               levels = c("Primary", "Metastasis", "NA"))
 
 hpa_tcga$tcga_exp <-
-  readRDS("../data_publish/tcga_exp.Rds") %>%
+  readRDS("data/tcga_exp.Rds") %>%
   dplyr::select(ensg_id, sample, ntpm)
 
 hpa_tcga$cell_line_exp <-
@@ -50,7 +50,7 @@ hpa_tcga$cell_line_exp <-
 
 
 hpa_tcga$tcga_clinical <-
-  readRDS("../data_publish/tcga_clinical.Rds")[["final_clin"]] %>%
+  readRDS("data/tcga_clinical.Rds")[["final_clin"]] %>%
   dplyr::select(project_id, barcode,
                 pathologic_stage = ajcc_pathologic_stage_simple,
                 subtype = subtype_selected) %>%
