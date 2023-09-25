@@ -108,7 +108,7 @@ exp_landscape$gene_primary_disease <- hpa_gene_classification(exp_landscape$comb
 exp_landscape$gene_metastasis_disease <- hpa_gene_classification(exp_landscape$combine_metastasis_disease, "ntpm", "primary_disease", "ensg_id", 4, 10)
 exp_landscape$gene_tcga_disease <- hpa_gene_classification(exp_landscape$tcga_disease, "ntpm", "project_id", "ensg_id", 4, 10)
 
-exp_landscape$hpa_summary <- read_tsv("../data_publish/proteinatlas.tsv")
+exp_landscape$hpa_summary <- read_tsv("data/proteinatlas.tsv")
 
 
 # barplot distribution ----------------------------------------------------
