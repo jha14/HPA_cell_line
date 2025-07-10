@@ -1,9 +1,4 @@
-# HPA cell line section (v22)
-Scripts for reproducing the results presented in the paper "Systematic transcriptional analysis of human cell lines for gene expression landscape and tumor representation"
-
-Codes can be run starting from the main R script file.
-
-# Systematic transcriptional analysis of human cell lines for gene expression landscape and tumor representation
+# 🧬 HPA Cell Line Section (v22)
 
 This repository contains the code and resources necessary to reproduce the main findings of the paper:  
 **"Systematic transcriptional analysis of human cell lines for gene expression landscape and tumor representation"**
@@ -20,7 +15,7 @@ This repository contains the code and resources necessary to reproduce the main 
 - **data/**: Processed data used in the analyses can be accessed via Zenodo:  
   🔗 [https://doi.org/10.5281/zenodo.7874749](https://doi.org/10.5281/zenodo.7874749)
   
-- **codes/**: Contains ordered R scripts (e.g., `umap_visualization.R`, `expression_landscape.R`, etc.) for reproducing figures and results presented in the manuscript. The order to run the scripts can be found in `main.R`.
+- **codes/**: Contains ordered R scripts (e.g., `umap_visualization.R`, `expression_landscape.R`, etc.) for reproducing figures and results presented in the manuscript. The recommended execution order of the scripts is provided in `main.R`.
 
 ## ▶️ How to run
 
