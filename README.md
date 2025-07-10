@@ -15,7 +15,7 @@ This repository contains the code and resources necessary to reproduce the main 
 - **data/**: Processed data used in the analyses can be accessed via Zenodo:  
   🔗 [https://doi.org/10.5281/zenodo.7874749](https://doi.org/10.5281/zenodo.7874749)
   
-- **codes/**: Contains ordered R scripts (e.g., `umap_visualization.R`, `expression_landscape.R`, etc.) for reproducing figures and results presented in the manuscript. The recommended execution order of the scripts is provided in `main.R`.
+- **codes/**: Contains ordered R scripts (e.g., `umap_visualization.R`, `expression_landscape.R`, etc.) for reproducing figures and results presented in the paper. The recommended execution order of the scripts is provided in `main.R`.
 
 ## ▶️ How to run
 
