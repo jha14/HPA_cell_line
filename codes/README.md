@@ -1,2 +1,2 @@
-# HPA cell line section (v22)
-Codes can be run starting from the main R script file.
+# HPA Cell Line Section (v22)
+The recommended execution order of the scripts is provided in `main.R`.
