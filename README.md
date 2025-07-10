@@ -38,8 +38,6 @@ This repository contains the code and resources necessary to reproduce the main 
 ## 📄 Citation
 If you use this code or data in your research, please cite the original paper:
 
-Han Jin, Cheng Zhang, et al. (2023). Systematic transcriptional analysis of human cell lines for gene expression landscape and tumor representation. Nature Communications. [https://doi.org/10.1038/s41467-023-41132-w
-        
-        ]
+Han Jin, Cheng Zhang, et al. (2023). Systematic transcriptional analysis of human cell lines for gene expression landscape and tumor representation. Nature Communications. [https://doi.org/10.1038/s41467-023-41132-w]
 
 (*Han Jin and Cheng Zhang contributed equally to this work*)
